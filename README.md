@@ -25,7 +25,7 @@ This is a simple Library Management System developed as a school project for BSI
 - Run the SQL script in `library_db.sql` to set up the tables.
 
 ## Author
-- Marc Joshua C. Vigilia (BSIT 3A)
+- Marc Joshua C. Vigilia
 
 ## Note
 This is a school assignment project and is not intended for production use. 
